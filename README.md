@@ -10,7 +10,7 @@
 
 ## Данные
 
-###Датасет
+Датасет
 
 Для работы использовался датасет объявлений об аренде квартир из соревнования [Two Sigma Connect: Rental Listing Inquiries на Kaggle](https://www.kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries/data).
 
