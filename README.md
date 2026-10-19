@@ -109,8 +109,8 @@
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/Haydan90/ML1.git
-   cd ML1
+   git clone https://github.com/Haydan90/ML2_linear-regression-regularization.git
+   cd ML2_linear-regression-regularization
    ```
 
 2. Установить необходимые библиотеки:
